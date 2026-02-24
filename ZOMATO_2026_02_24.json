@@ -1,958 +1,475 @@
 {
-    "restaurant_id": 22452601,
-    "restaurant_name": "Sahtain, Ambli order online - Zomato",
-    "restaurant_contact": [
-        "+919227989587"
-    ],
-    "fssai_licence_number": 10725026001346,
-    "address_info": {
+    "restaurant_data": {
+        "restaurant_id": 22452601,
+        "restaurant_name": "Sahtain, Ambli order online - Zomato",
+        "restaurant_contact": "+919227989587",
         "full_address": "TP 212, FP 13, Survey 318, Iscon Road, Near Indian Oil Petrol Pump, Ambli, Ahmedabad",
         "region": "India",
         "city": "Ahmedabad",
         "pincode": "380058",
-        "state": "Gujrat"
+        "state": "Gujarat",
+        "fssai_licence_number": 10725026001346,
+        "open_time": "12pm",
+        "close_time": "11pm",
+        "item_1_category": "Soups and Salads",
+        "item_1_id": "ctl_763992100",
+        "item_1_name": "Mushroom Shorba",
+        "item_1_description": "Caraway, Aleppo pepper, pickled shimeji.",
+        "item_1_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_1_is_veg": true,
+        "item_2_category": "Soups and Salads",
+        "item_2_id": "ctl_763992101",
+        "item_2_name": "Chilled Cucumber and Kefir Soup",
+        "item_2_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+        "item_2_slugs": "veg,services,delivery-enabled",
+        "item_2_is_veg": true,
+        "item_3_category": "Soups and Salads",
+        "item_3_id": "ctl_763992102",
+        "item_3_name": "Creamy Mushroom Soup",
+        "item_3_description": "Black and white pepper, basil, lemon.",
+        "item_3_slugs": "veg,services,delivery-enabled",
+        "item_3_is_veg": true,
+        "item_4_category": "Soups and Salads",
+        "item_4_id": "ctl_763992103",
+        "item_4_name": "Lentil Soup",
+        "item_4_description": "Yellow split lentils, cumin, coriander, lemon.",
+        "item_4_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_4_is_veg": true,
+        "item_5_category": "Soups and Salads",
+        "item_5_id": "ctl_763992104",
+        "item_5_name": "Harira Soup",
+        "item_5_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+        "item_5_slugs": "veg,services,delivery-enabled",
+        "item_5_is_veg": true,
+        "item_6_category": "Soups and Salads",
+        "item_6_id": "ctl_763992090",
+        "item_6_name": "Fattoush Salad",
+        "item_6_description": "Mixed greens, tomato, cucumber, radish, crispy khubz, pomegranate molasses.",
+        "item_6_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_6_is_veg": true,
+        "item_7_category": "Soups and Salads",
+        "item_7_id": "ctl_763992092",
+        "item_7_name": "Lentil Salad",
+        "item_7_description": "Red lentils, onion, coriander, pomegranate molasses.",
+        "item_7_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_7_is_veg": true,
+        "item_8_category": "Soups and Salads",
+        "item_8_id": "ctl_763992093",
+        "item_8_name": "Glazed Beetroot Salad",
+        "item_8_description": "Rose muhammadi, green apple, preserved lemon.",
+        "item_8_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_8_is_veg": true,
+        "item_9_category": "Soups and Salads",
+        "item_9_id": "ctl_763992094",
+        "item_9_name": "Potato Salad",
+        "item_9_description": "Mixed greens, radish, spring onion, black olives.",
+        "item_9_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_9_is_veg": true,
+        "item_10_category": "Soups and Salads",
+        "item_10_id": "ctl_763992095",
+        "item_10_name": "Smoked Tomato Salad",
+        "item_10_description": "Pickled prunes, ras el hanout almonds, kalamata olives.",
+        "item_10_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_10_is_veg": true,
+        "item_11_category": "Soups and Salads",
+        "item_11_id": "ctl_763992096",
+        "item_11_name": "Rocca Salad",
+        "item_11_description": "Rocket, cherry tomato, onion, sumac, crispy tortilla.",
+        "item_11_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_11_is_veg": true,
+        "item_12_category": "Soups and Salads",
+        "item_12_id": "ctl_763992097",
+        "item_12_name": "Kale and Citrus Salad",
+        "item_12_description": "Kale, orange, avocado, quinoa, mint, almonds.",
+        "item_12_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_12_is_veg": true,
+        "item_13_category": "Soups and Salads",
+        "item_13_id": "ctl_763992098",
+        "item_13_name": "Smoked Cherry and Almond Salad",
+        "item_13_description": "Beetroot reduction, pomegranate molasses, parsley seasonal.",
+        "item_13_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_13_is_veg": true,
+        "item_14_category": "Soups and Salads",
+        "item_14_id": "ctl_763992099",
+        "item_14_name": "Tabbouleh Salad",
+        "item_14_description": "Parsley, bulgur, tomato, spring onions.",
+        "item_14_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_14_is_veg": true,
+        "item_15_category": "Main Course",
+        "item_15_id": "ctl_763992111",
+        "item_15_name": "Shish Barak",
+        "item_15_description": "Yoghurt, mint, garlic confit, vermicelli rice",
+        "item_15_slugs": "veg,services,delivery-enabled",
+        "item_15_is_veg": true,
+        "item_16_category": "Main Course",
+        "item_16_id": "ctl_763992112",
+        "item_16_name": "Molokhia",
+        "item_16_description": "Jute mallow stew, vermicelli rice",
+        "item_16_slugs": "veg,services,delivery-enabled",
+        "item_16_is_veg": true,
+        "item_17_category": "Main Course",
+        "item_17_id": "ctl_763992113",
+        "item_17_name": "Ouzi",
+        "item_17_description": "Spiced rice, mixed vegetables, raisins, phyllo pastry",
+        "item_17_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_17_is_veg": true,
+        "item_18_category": "Main Course",
+        "item_18_id": "ctl_763992114",
+        "item_18_name": "Dawood Basha",
+        "item_18_description": "Spiced mock meat kefte, tomato jus, vermicelli rice",
+        "item_18_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_18_is_veg": true,
+        "item_19_category": "Main Course",
+        "item_19_id": "ctl_763992115",
+        "item_19_name": "Koshary",
+        "item_19_description": "Rice, lentil, ditalini, chickpea, spiced tomato",
+        "item_19_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_19_is_veg": true,
+        "item_20_category": "Main Course",
+        "item_20_id": "ctl_763992116",
+        "item_20_name": "Orange Pistachio Couscous",
+        "item_20_description": "Ras el hanout spiced almonds, saffron, apricot",
+        "item_20_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_20_is_veg": true,
+        "item_21_category": "Main Course",
+        "item_21_id": "ctl_763992117",
+        "item_21_name": "Mushroom Bastilla",
+        "item_21_description": "Harissa, jibn, sunflower seeds",
+        "item_21_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_21_is_veg": true,
+        "item_22_category": "Main Course",
+        "item_22_id": "ctl_763992118",
+        "item_22_name": "Butternut Bastilla",
+        "item_22_description": "Ras el hanout spiced tempeh, feta, almond",
+        "item_22_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_22_is_veg": true,
+        "item_23_category": "Main Course",
+        "item_23_id": "ctl_763992119",
+        "item_23_name": "Rajma Medames",
+        "item_23_description": "Green olive, tarator, aish baladi",
+        "item_23_slugs": "veg,services,delivery-enabled",
+        "item_23_is_veg": true,
+        "item_24_category": "Main Course",
+        "item_24_id": "ctl_763992120",
+        "item_24_name": "Loubia",
+        "item_24_description": "White beans, tomato, marinated olives",
+        "item_24_slugs": "veg,services,delivery-enabled",
+        "item_24_is_veg": true,
+        "item_25_category": "Main Course",
+        "item_25_id": "ctl_763992121",
+        "item_25_name": "Chickpea Couscous",
+        "item_25_description": "Onion jam, toasted sesame, cultured butter",
+        "item_25_slugs": "veg,services,sf-not-vegan,delivery-enabled",
+        "item_25_is_veg": true,
+        "item_26_category": "Main Course",
+        "item_26_id": "ctl_763992122",
+        "item_26_name": "Ful Medames",
+        "item_26_description": "Fava bean, green olive, tarator, aish baladi Can be served with tahina sauce",
+        "item_26_slugs": "veg,packaged,non-refundable,services,delivery-enabled",
+        "item_26_is_veg": true,
+        "item_27_category": "Main Course",
+        "item_27_id": "ctl_763992123",
+        "item_27_name": "Berber",
+        "item_27_description": "Seasonal vegetables, saffron tomato, chermoula butter",
+        "item_27_slugs": "veg,services,sf-not-vegan,delivery-enabled",
+        "item_27_is_veg": true,
+        "item_28_category": "Main Course",
+        "item_28_id": "ctl_763992124",
+        "item_28_name": "Sweet Potato",
+        "item_28_description": "Fermented habanero, tarator, kale",
+        "item_28_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_28_is_veg": true,
+        "item_29_category": "Main Course",
+        "item_29_id": "ctl_763992125",
+        "item_29_name": "Okra Tomato",
+        "item_29_description": "Saffron tomato, potato, chermoula butter",
+        "item_29_slugs": "veg,services,sf-not-vegan,delivery-enabled",
+        "item_29_is_veg": true,
+        "item_30_category": "Main Course",
+        "item_30_id": "ctl_763992126",
+        "item_30_name": "Grilled Stuffed Peppers",
+        "item_30_description": "Kefta, pomegranate, ras el hanout almonds",
+        "item_30_slugs": "veg,services,delivery-enabled",
+        "item_30_is_veg": true,
+        "item_31_category": "Main Course",
+        "item_31_id": "ctl_763992127",
+        "item_31_name": "Harissa Cauliflower",
+        "item_31_description": "Pearl couscous, green shatta, munakka raisin",
+        "item_31_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_31_is_veg": true,
+        "item_32_category": "Main Course",
+        "item_32_id": "ctl_763992128",
+        "item_32_name": "Shish Kefta",
+        "item_32_description": "Kefte, bread, fresh biwaz, hummus",
+        "item_32_slugs": "veg,services,delivery-enabled",
+        "item_32_is_veg": true,
+        "item_33_category": "Main Course",
+        "item_33_id": "ctl_763992129",
+        "item_33_name": "Kefte Jibn",
+        "item_33_description": "Cheese stuffed kefta, saffron, almond, preserved lemon",
+        "item_33_slugs": "veg,services,sf-not-vegan,delivery-enabled",
+        "item_33_is_veg": true,
+        "item_34_category": "Main Course",
+        "item_34_id": "ctl_763992171",
+        "item_34_name": "Zaalouk",
+        "item_34_description": "Eggplant, smoked tomato, tarator",
+        "item_34_slugs": "veg,services,delivery-enabled",
+        "item_34_is_veg": true,
+        "item_35_category": "Rice",
+        "item_35_id": "ctl_763992144",
+        "item_35_name": "Maqluba Rice",
+        "item_35_description": "Spiced rice, potato, cauliflower, eggplant",
+        "item_35_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_35_is_veg": true,
+        "item_36_category": "Rice",
+        "item_36_id": "ctl_763992145",
+        "item_36_name": "Kabsa Rice",
+        "item_36_description": "Spiced rice, nuts, raisins, house shatta",
+        "item_36_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_36_is_veg": true,
+        "item_37_category": "Rice",
+        "item_37_id": "ctl_763992146",
+        "item_37_name": "Bulgur Pilaf",
+        "item_37_description": "Bulgur wheat, tomato, harissa, herbs",
+        "item_37_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_37_is_veg": true,
+        "item_38_category": "Pizza and Pasta",
+        "item_38_id": "ctl_763992153",
+        "item_38_name": "Rigatoni Tomato Cream Pasta",
+        "item_38_description": "Slow cooked tomato, cream, garlic, parmesan",
+        "item_38_slugs": "veg,services,sf-kid-friendly,sf-not-vegan,delivery-enabled",
+        "item_38_is_veg": true,
+        "item_39_category": "Pizza and Pasta",
+        "item_39_id": "ctl_763992154",
+        "item_39_name": "Makrouna Jibn Pasta",
+        "item_39_description": "Koshari tomato sauce, jibn, butter, parsley",
+        "item_39_slugs": "veg,services,sf-kid-friendly,sf-not-vegan,delivery-enabled",
+        "item_39_is_veg": true,
+        "item_40_category": "Pizza and Pasta",
+        "item_40_id": "ctl_763992155",
+        "item_40_name": "Sedani Bolognese Pasta",
+        "item_40_description": "Soy mince Ragu, harissa, black lime",
+        "item_40_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_40_is_veg": true,
+        "item_41_category": "Pizza and Pasta",
+        "item_41_id": "ctl_763992156",
+        "item_41_name": "Rigatoni Pesto Pasta",
+        "item_41_description": "Basil pesto, parmesan, olive oil",
+        "item_41_slugs": "veg,services,sf-kid-friendly,delivery-enabled",
+        "item_41_is_veg": true,
+        "item_42_category": "Pizza and Pasta",
+        "item_42_id": "ctl_763992157",
+        "item_42_name": "Tagliatelle Truffle Aglio e Olio Pasta",
+        "item_42_description": "Garlic, chilli, parsley, olive oil",
+        "item_42_slugs": "veg,services,sf-kid-friendly,delivery-enabled",
+        "item_42_is_veg": true,
+        "item_43_category": "Snacks",
+        "item_43_id": "ctl_763992158",
+        "item_43_name": "Potato Harcha",
+        "item_43_description": "Fermented potato semolina bread, cultured butter, hot honey, feta",
+        "item_43_slugs": "veg,services,sf-not-vegan,delivery-enabled",
+        "item_43_is_veg": true,
+        "item_44_category": "Snacks",
+        "item_44_id": "ctl_763992159",
+        "item_44_name": "Potato Wafers",
+        "item_44_description": "Sumac, toum, tomato jam, thyme",
+        "item_44_slugs": "veg,services,delivery-enabled",
+        "item_44_is_veg": true,
+        "item_45_category": "Snacks",
+        "item_45_id": "ctl_763992160",
+        "item_45_name": "Onion & Thyme Madeleine",
+        "item_45_description": "Brown butter, smoked tomato, macadamia",
+        "item_45_slugs": "veg,services,sf-not-vegan,delivery-enabled",
+        "item_45_is_veg": true,
+        "item_46_category": "Snacks",
+        "item_46_id": "ctl_763992161",
+        "item_46_name": "Sambousek",
+        "item_46_description": "Vegan Meat Cheese",
+        "item_46_slugs": "veg,services,sf-vegan,delivery-enabled",
+        "item_46_is_veg": true,
+        "item_47_category": "Snacks",
+        "item_47_id": "ctl_763992162",
+        "item_47_name": "Classic French Fries",
+        "item_47_description": "",
+        "item_47_slugs": "veg,services,delivery-enabled",
+        "item_47_is_veg": true,
+        "item_48_category": "Snacks",
+        "item_48_id": "ctl_763992091",
+        "item_48_name": "Laban Bil Khiar",
+        "item_48_description": "Cucumber, mint, dill, sourdough cumin crackers",
+        "item_48_slugs": "veg,services,delivery-enabled,dt-breakfast",
+        "item_48_is_veg": true,
+        "item_49_category": "Snacks",
+        "item_49_id": "ctl_763992105",
+        "item_49_name": "Fatteh Eggplant",
+        "item_49_description": "Fried eggplant, yoghurt, crispy khubz",
+        "item_49_slugs": "veg,services,delivery-enabled",
+        "item_49_is_veg": true,
+        "item_50_category": "Snacks",
+        "item_50_id": "ctl_763992107",
+        "item_50_name": "Cheese Falafel",
+        "item_50_description": "",
+        "item_50_slugs": "veg,services,sf-not-vegan,delivery-enabled",
+        "item_50_is_veg": true,
+        "item_51_category": "Snacks",
+        "item_51_id": "ctl_763992108",
+        "item_51_name": "Classic Falafel",
+        "item_51_description": "",
+        "item_51_slugs": "veg,services,delivery-enabled",
+        "item_51_is_veg": true,
+        "item_52_category": "Snacks",
+        "item_52_id": "ctl_763992109",
+        "item_52_name": "Grilled Halloumi",
+        "item_52_description": "Chermoula, red grapes, hot honey Pesto",
+        "item_52_slugs": "veg,services,sf-not-vegan,delivery-enabled",
+        "item_52_is_veg": true,
+        "item_53_category": "Snacks",
+        "item_53_id": "ctl_763992130",
+        "item_53_name": "Classic Hummus",
+        "item_53_description": "",
+        "item_53_slugs": "veg,services,delivery-enabled",
+        "item_53_is_veg": true,
+        "item_54_category": "Snacks",
+        "item_54_id": "ctl_763992131",
+        "item_54_name": "Pine Nut Hummus",
+        "item_54_description": "",
+        "item_54_slugs": "veg,services,delivery-enabled",
+        "item_54_is_veg": true,
+        "item_55_category": "Snacks",
+        "item_55_id": "ctl_763992132",
+        "item_55_name": "Beiruti Hummus",
+        "item_55_description": "",
+        "item_55_slugs": "veg,services,delivery-enabled",
+        "item_55_is_veg": true,
+        "item_56_category": "Snacks",
+        "item_56_id": "ctl_763992133",
+        "item_56_name": "Avocado Hummus",
+        "item_56_description": "",
+        "item_56_slugs": "veg,services,delivery-enabled",
+        "item_56_is_veg": true,
+        "item_57_category": "Snacks",
+        "item_57_id": "ctl_763992134",
+        "item_57_name": "Mango Hummus",
+        "item_57_description": "",
+        "item_57_slugs": "veg,services,delivery-enabled",
+        "item_57_is_veg": true,
+        "item_58_category": "Snacks",
+        "item_58_id": "ctl_763992135",
+        "item_58_name": "Grape Leaves",
+        "item_58_description": "Vine leaves, Egyptian rice, mock meat, tomato, onion, mint",
+        "item_58_slugs": "veg,services,delivery-enabled",
+        "item_58_is_veg": true,
+        "item_59_category": "Snacks",
+        "item_59_id": "ctl_763992136",
+        "item_59_name": "Labneh",
+        "item_59_description": "Classic | Vegetable | House Special",
+        "item_59_slugs": "veg,services,delivery-enabled",
+        "item_59_is_veg": true,
+        "item_60_category": "Snacks",
+        "item_60_id": "ctl_763992138",
+        "item_60_name": "Moutabal",
+        "item_60_description": "Smoked eggplant, cream, lemon, tahina",
+        "item_60_slugs": "veg,services,sf-not-vegan,delivery-enabled",
+        "item_60_is_veg": true,
+        "item_61_category": "Snacks",
+        "item_61_id": "ctl_763992139",
+        "item_61_name": "Baba Ghanoush",
+        "item_61_description": "Smoked eggplant, tahina, pomegranate molasses, olive oil",
+        "item_61_slugs": "veg,services,delivery-enabled",
+        "item_61_is_veg": true,
+        "item_62_category": "Snacks",
+        "item_62_id": "ctl_763992140",
+        "item_62_name": "Roasted Red Pepper Hummus",
+        "item_62_description": "",
+        "item_62_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_62_is_veg": true,
+        "item_63_category": "Snacks",
+        "item_63_id": "ctl_763992141",
+        "item_63_name": "Mushroom Hummus",
+        "item_63_description": "",
+        "item_63_slugs": "veg,services,delivery-enabled",
+        "item_63_is_veg": true,
+        "item_64_category": "Snacks",
+        "item_64_id": "ctl_763992142",
+        "item_64_name": "White Bread",
+        "item_64_description": "",
+        "item_64_slugs": "veg,services,delivery-enabled",
+        "item_64_is_veg": true,
+        "item_65_category": "Snacks",
+        "item_65_id": "ctl_763992143",
+        "item_65_name": "Sourdough Aish Baladi",
+        "item_65_description": "Khapli wheat Egyptian bread, olive oil, dukkah",
+        "item_65_slugs": "veg,services,delivery-enabled",
+        "item_65_is_veg": true,
+        "item_66_category": "Snacks",
+        "item_66_id": "ctl_763992180",
+        "item_66_name": "Marinated Olives",
+        "item_66_description": "",
+        "item_66_slugs": "veg,services,delivery-enabled",
+        "item_66_is_veg": true,
+        "item_67_category": "Snacks",
+        "item_67_id": "ctl_763992163",
+        "item_67_name": "Egyptian Shrimp Fries",
+        "item_67_description": "Za'atar spice, black lime, toum",
+        "item_67_slugs": "non-veg,services,delivery-enabled",
+        "item_67_is_veg": false,
+        "item_68_category": "Wraps",
+        "item_68_id": "ctl_763992164",
+        "item_68_name": "Falafel Wrap",
+        "item_68_description": "Falafel, radish, tomato, pickled cucumber, tarator",
+        "item_68_slugs": "veg,services,delivery-enabled",
+        "item_68_is_veg": true,
+        "item_69_category": "Wraps",
+        "item_69_id": "ctl_763992165",
+        "item_69_name": "Batata Harra Wrap",
+        "item_69_description": "Spiced potato, hummus, pickled cucumber",
+        "item_69_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_69_is_veg": true,
+        "item_70_category": "Wraps",
+        "item_70_id": "ctl_763992166",
+        "item_70_name": "Sabich Wrap",
+        "item_70_description": "Eggplant, amba, pineapple habanero shatta",
+        "item_70_slugs": "veg,services,sf-spicy,delivery-enabled",
+        "item_70_is_veg": true,
+        "item_71_category": "Wraps",
+        "item_71_id": "ctl_763992167",
+        "item_71_name": "Kefte Durum Wrap",
+        "item_71_description": "Shish kefte, tarator, red serrano shatta",
+        "item_71_slugs": "veg,services,delivery-enabled",
+        "item_71_is_veg": true,
+        "item_72_category": "Accompaniment",
+        "item_72_id": "ctl_763992179",
+        "item_72_name": "Garlic Toum",
+        "item_72_description": "",
+        "item_72_slugs": "veg,services,delivery-enabled",
+        "item_72_is_veg": true,
+        "total_items": 72
     },
-    "cuisines": [
-        {
-            "name": "Continental",
-            "url": "https://www.zomato.com/ahmedabad/restaurants/continental/"
-        },
-        {
-            "name": "Middle Eastern",
-            "url": "https://www.zomato.com/ahmedabad/restaurants/middle-eastern/"
-        },
-        {
-            "name": "Arabian",
-            "url": "https://www.zomato.com/ahmedabad/restaurants/arabian/"
-        },
-        {
-            "name": "Chinese",
-            "url": "https://www.zomato.com/ahmedabad/restaurants/chinese/"
-        },
-        {
-            "name": "Italian",
-            "url": "https://www.zomato.com/ahmedabad/restaurants/italian/"
-        },
-        {
-            "name": "Pizza",
-            "url": "https://www.zomato.com/ahmedabad/restaurants/pizza/"
-        },
-        {
-            "name": "Pasta",
-            "url": "https://www.zomato.com/ahmedabad/restaurants/pasta/"
-        },
-        {
-            "name": "Fast Food",
-            "url": "https://www.zomato.com/ahmedabad/restaurants/fast-food/"
-        }
-    ],
-    "timings": {
-        "monday": {
-            "open": "12pm",
-            "close": "11pm"
-        },
-        "tuesdy": {
-            "open": "12pm",
-            "close": "11pm"
-        },
-        "wednsday": {
-            "open": "12pm",
-            "close": "11pm"
-        },
-        "thursday": {
-            "open": "12pm",
-            "close": "11pm"
-        },
-        "friday": {
-            "open": "12pm",
-            "close": "11pm"
-        },
-        "saturday": {
-            "open": "12pm",
-            "close": "11pm"
-        },
-        "sunday": {
-            "open": "12pm",
-            "close": "11pm"
-        }
-    },
-    "menu_categories": [
-        {
-            "category_name": "Soups and Salads",
-            "items": [
-                {
-                    "item_id": "ctl_763992100",
-                    "item_name": "Mushroom Shorba",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992101",
-                    "item_name": "Chilled Cucumber and Kefir Soup",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992102",
-                    "item_name": "Creamy Mushroom Soup",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Black and white pepper, basil, lemon.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992103",
-                    "item_name": "Lentil Soup",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Yellow split lentils, cumin, coriander, lemon.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992104",
-                    "item_name": "Harira Soup",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
-                    "is_veg": true
-                }
-            ]
-        },
-        {
-            "category_name": "Soups and Salads",
-            "items": [
-                {
-                    "item_id": "ctl_763992090",
-                    "item_name": "Fattoush Salad",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Mixed greens, tomato, cucumber, radish, crispy khubz, pomegranate molasses.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992092",
-                    "item_name": "Lentil Salad",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Red lentils, onion, coriander, pomegranate molasses.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992093",
-                    "item_name": "Glazed Beetroot Salad",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Rose muhammadi, green apple, preserved lemon.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992094",
-                    "item_name": "Potato Salad",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Mixed greens, radish, spring onion, black olives.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992095",
-                    "item_name": "Smoked Tomato Salad",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Pickled prunes, ras el hanout almonds, kalamata olives.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992096",
-                    "item_name": "Rocca Salad",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Rocket, cherry tomato, onion, sumac, crispy tortilla.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992097",
-                    "item_name": "Kale and Citrus Salad",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Kale, orange, avocado, quinoa, mint, almonds.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992098",
-                    "item_name": "Smoked Cherry and Almond Salad",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Beetroot reduction, pomegranate molasses, parsley seasonal.",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992099",
-                    "item_name": "Tabbouleh Salad",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Parsley, bulgur, tomato, spring onions.",
-                    "is_veg": true
-                }
-            ]
-        },
-        {
-            "category_name": "Main Course",
-            "items": [
-                {
-                    "item_id": "ctl_763992111",
-                    "item_name": "Shish Barak",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Yoghurt, mint, garlic confit, vermicelli rice",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992112",
-                    "item_name": "Molokhia",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Jute mallow stew, vermicelli rice",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992113",
-                    "item_name": "Ouzi",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Spiced rice, mixed vegetables, raisins, phyllo pastry",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992114",
-                    "item_name": "Dawood Basha",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Spiced mock meat kefte, tomato jus, vermicelli rice",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992115",
-                    "item_name": "Koshary",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Rice, lentil, ditalini, chickpea, spiced tomato",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992116",
-                    "item_name": "Orange Pistachio Couscous",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Ras el hanout spiced almonds, saffron, apricot",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992117",
-                    "item_name": "Mushroom Bastilla",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Harissa, jibn, sunflower seeds",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992118",
-                    "item_name": "Butternut Bastilla",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Ras el hanout spiced tempeh, feta, almond",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992119",
-                    "item_name": "Rajma Medames",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Green olive, tarator, aish baladi",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992120",
-                    "item_name": "Loubia",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "White beans, tomato, marinated olives",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992121",
-                    "item_name": "Chickpea Couscous",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Onion jam, toasted sesame, cultured butter",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992122",
-                    "item_name": "Ful Medames",
-                    "item_slugs": [
-                        "veg",
-                        "packaged",
-                        "non-refundable",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Fava bean, green olive, tarator, aish baladi Can be served with tahina sauce",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992123",
-                    "item_name": "Berber",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Seasonal vegetables, saffron tomato, chermoula butter",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992124",
-                    "item_name": "Sweet Potato",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Fermented habanero, tarator, kale",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992125",
-                    "item_name": "Okra Tomato",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Saffron tomato, potato, chermoula butter",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992126",
-                    "item_name": "Grilled Stuffed Peppers",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Kefta, pomegranate, ras el hanout almonds",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992127",
-                    "item_name": "Harissa Cauliflower",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Pearl couscous, green shatta, munakka raisin",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992128",
-                    "item_name": "Shish Kefta",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Kefte, bread, fresh biwaz, hummus",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992129",
-                    "item_name": "Kefte Jibn",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Cheese stuffed kefta, saffron, almond, preserved lemon",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992171",
-                    "item_name": "Zaalouk",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Eggplant, smoked tomato, tarator",
-                    "is_veg": true
-                }
-            ]
-        },
-        {
-            "category_name": "Rice",
-            "items": [
-                {
-                    "item_id": "ctl_763992144",
-                    "item_name": "Maqluba Rice",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Spiced rice, potato, cauliflower, eggplant",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992145",
-                    "item_name": "Kabsa Rice",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Spiced rice, nuts, raisins, house shatta",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992146",
-                    "item_name": "Bulgur Pilaf",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Bulgur wheat, tomato, harissa, herbs",
-                    "is_veg": true
-                }
-            ]
-        },
-        {
-            "category_name": "Pizza and Pasta",
-            "items": [
-                {
-                    "item_id": "ctl_763992153",
-                    "item_name": "Rigatoni Tomato Cream Pasta",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-kid-friendly",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Slow cooked tomato, cream, garlic, parmesan",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992154",
-                    "item_name": "Makrouna Jibn Pasta",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-kid-friendly",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Koshari tomato sauce, jibn, butter, parsley",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992155",
-                    "item_name": "Sedani Bolognese Pasta",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Soy mince Ragu, harissa, black lime",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992156",
-                    "item_name": "Rigatoni Pesto Pasta",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-kid-friendly",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Basil pesto, parmesan, olive oil",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992157",
-                    "item_name": "Tagliatelle Truffle Aglio e Olio Pasta",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-kid-friendly",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Garlic, chilli, parsley, olive oil",
-                    "is_veg": true
-                }
-            ]
-        },
-        {
-            "category_name": "Snacks",
-            "items": [
-                {
-                    "item_id": "ctl_763992158",
-                    "item_name": "Potato Harcha",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Fermented potato semolina bread, cultured butter, hot honey, feta",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992159",
-                    "item_name": "Potato Wafers",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Sumac, toum, tomato jam, thyme",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992160",
-                    "item_name": "Onion & Thyme Madeleine",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Brown butter, smoked tomato, macadamia",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992161",
-                    "item_name": "Sambousek",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Vegan Meat Cheese",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992162",
-                    "item_name": "Classic French Fries",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992091",
-                    "item_name": "Laban Bil Khiar",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled",
-                        "dt-breakfast"
-                    ],
-                    "item_description": "Cucumber, mint, dill, sourdough cumin crackers",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992105",
-                    "item_name": "Fatteh Eggplant",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Fried eggplant, yoghurt, crispy khubz",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992107",
-                    "item_name": "Cheese Falafel",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992108",
-                    "item_name": "Classic Falafel",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992109",
-                    "item_name": "Grilled Halloumi",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Chermoula, red grapes, hot honey Pesto",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992130",
-                    "item_name": "Classic Hummus",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992131",
-                    "item_name": "Pine Nut Hummus",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992132",
-                    "item_name": "Beiruti Hummus",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992133",
-                    "item_name": "Avocado Hummus",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992134",
-                    "item_name": "Mango Hummus",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992135",
-                    "item_name": "Grape Leaves",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Vine leaves, Egyptian rice, mock meat, tomato, onion, mint",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992136",
-                    "item_name": "Labneh",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Classic | Vegetable | House Special",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992138",
-                    "item_name": "Moutabal",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-not-vegan",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Smoked eggplant, cream, lemon, tahina",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992139",
-                    "item_name": "Baba Ghanoush",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Smoked eggplant, tahina, pomegranate molasses, olive oil",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992140",
-                    "item_name": "Roasted Red Pepper Hummus",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992141",
-                    "item_name": "Mushroom Hummus",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992142",
-                    "item_name": "White Bread",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992143",
-                    "item_name": "Sourdough Aish Baladi",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Khapli wheat Egyptian bread, olive oil, dukkah",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992180",
-                    "item_name": "Marinated Olives",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992163",
-                    "item_name": "Egyptian Shrimp Fries",
-                    "item_slugs": [
-                        "non-veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Za'atar spice, black lime, toum",
-                    "is_veg": false
-                }
-            ]
-        },
-        {
-            "category_name": "Wraps",
-            "items": [
-                {
-                    "item_id": "ctl_763992164",
-                    "item_name": "Falafel Wrap",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Falafel, radish, tomato, pickled cucumber, tarator",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992165",
-                    "item_name": "Batata Harra Wrap",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Spiced potato, hummus, pickled cucumber",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992166",
-                    "item_name": "Sabich Wrap",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "sf-spicy",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Eggplant, amba, pineapple habanero shatta",
-                    "is_veg": true
-                },
-                {
-                    "item_id": "ctl_763992167",
-                    "item_name": "Kefte Durum Wrap",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "Shish kefte, tarator, red serrano shatta",
-                    "is_veg": true
-                }
-            ]
-        },
-        {
-            "category_name": "Accompaniment",
-            "items": [
-                {
-                    "item_id": "ctl_763992179",
-                    "item_name": "Garlic Toum",
-                    "item_slugs": [
-                        "veg",
-                        "services",
-                        "delivery-enabled"
-                    ],
-                    "item_description": "",
-                    "is_veg": true
-                }
-            ]
-        }
-    ]
+    "cuisine_data": {
+        "cuisine_1_restaurant_id": 22452601,
+        "cuisine_1_name": "Continental",
+        "cuisine_1_url": "https://www.zomato.com/ahmedabad/restaurants/continental/",
+        "cuisine_2_restaurant_id": 22452601,
+        "cuisine_2_name": "Middle Eastern",
+        "cuisine_2_url": "https://www.zomato.com/ahmedabad/restaurants/middle-eastern/",
+        "cuisine_3_restaurant_id": 22452601,
+        "cuisine_3_name": "Arabian",
+        "cuisine_3_url": "https://www.zomato.com/ahmedabad/restaurants/arabian/",
+        "cuisine_4_restaurant_id": 22452601,
+        "cuisine_4_name": "Chinese",
+        "cuisine_4_url": "https://www.zomato.com/ahmedabad/restaurants/chinese/",
+        "cuisine_5_restaurant_id": 22452601,
+        "cuisine_5_name": "Italian",
+        "cuisine_5_url": "https://www.zomato.com/ahmedabad/restaurants/italian/",
+        "cuisine_6_restaurant_id": 22452601,
+        "cuisine_6_name": "Pizza",
+        "cuisine_6_url": "https://www.zomato.com/ahmedabad/restaurants/pizza/",
+        "cuisine_7_restaurant_id": 22452601,
+        "cuisine_7_name": "Pasta",
+        "cuisine_7_url": "https://www.zomato.com/ahmedabad/restaurants/pasta/",
+        "cuisine_8_restaurant_id": 22452601,
+        "cuisine_8_name": "Fast Food",
+        "cuisine_8_url": "https://www.zomato.com/ahmedabad/restaurants/fast-food/",
+        "total_cuisines": 8
+    }
 }
