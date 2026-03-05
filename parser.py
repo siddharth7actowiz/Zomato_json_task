@@ -33,7 +33,7 @@ def parser(raw_data):
     lic_no=re.search(r"\d+",lic_text).group()
     
     parsed_data["licence_no"] =lic_no  
-    parsed_data[    "open_time"]="12pm"
+    parsed_data["open_time"]="12pm"
     parsed_data["close_time"]= "11pm"
     parsed_data["state"] = "Gujarat"
 
@@ -93,4 +93,5 @@ if __name__ == '__main__': #provides encapculation ,modularity ,File can act as 
     main()
     tt = time.time() - st
     print(tt)
+
 
