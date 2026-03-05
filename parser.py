@@ -75,10 +75,9 @@ def parser(raw_data):
                     "item_id": item.get("id"),
                     "item_name": item.get("name"),
                     "description": item.get("desc") or sub_cat_name if sub_cat_name else main_cat_name})
-
-    parsed_data["menu_items"] = json.dumps(items_data)# before storing to database making sure to convert it json str
-
-
+   
+    # before storing to database/ passing to db function making sure to convert it json str beacuse mysql is not able to convert list[dict] to str conversion
+    parsed_data["menu_items"] = json.dumps(items_data)
     return parsed_data
    
 
@@ -89,8 +88,9 @@ def main():
         data= parser(json.dumps(raw))
         insert(config.TABLE_NAME,data)
 
-if __name__ == '__main__':
+if __name__ == '__main__': #provides encapculation ,modularity ,File can act as standalonr script as well as module
     st = time.time()
     main()
     tt = time.time() - st
     print(tt)
+
